@@ -216,17 +216,30 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.5</version>
 		</dependency>
+        <!--
 		<dependency>
 			<groupId>postgresql</groupId>
 			<artifactId>postgresql</artifactId>
 			<version>8.2-507.jdbc3</version>
 		</dependency>
+		-->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>com.springsource.org.postgresql.jdbc4</artifactId>
+            <version>8.3.604</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>com.springsource.org.apache.commons.dbcp</artifactId>
+            <version>1.2.2.osgi</version>
+        </dependency>
+        <!--
 		<dependency>
 			<groupId>commons-dbcp</groupId>
 			<artifactId>commons-dbcp</artifactId>
 			<version>1.2.2</version>
 		</dependency>
-
+        -->
 
 		<!--
 			default maven junit jar <dependency> <groupId>junit</groupId>
