@@ -44,8 +44,7 @@ public abstract class Profile extends DBEntity<Profile> {
 
 	@Valid
 	@Embedded
-
-	private Address address;
+    private Address address;
 
 	public Profile() {
 

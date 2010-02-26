@@ -1,12 +1,15 @@
 package ph.com.pinoyspringers.salesasst;
 
+import org.hibernate.validator.constraints.NotEmpty;
+
 import javax.persistence.Column;
 
 import javax.persistence.Embeddable;
+import javax.print.attribute.standard.Severity;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-import org.hibernate.validation.constraints.NotEmpty;
+
 
 /**
  * 
@@ -18,19 +21,16 @@ import org.hibernate.validation.constraints.NotEmpty;
 @Embeddable
 public class PersonName {
 
-	@NotNull
 	@NotEmpty
-	@Size(max = 20)
+    @Size(max = 20)
 	@Column(name = "FIRST_NAME", nullable = false, length = 20)
 	private String firstName;
 
-	@NotNull
 	@NotEmpty
 	@Size(max = 20)
 	@Column(name = "MIDDLE_NAME", nullable = false, length = 20)
 	private String middleName;
 
-	@NotNull
 	@NotEmpty
 	@Size(max = 30)
 	@Column(name = "LAST_NAME", nullable = false, length = 30)

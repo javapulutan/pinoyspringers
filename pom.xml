@@ -51,13 +51,12 @@
 			<artifactId>com.springsource.org.aspectj.runtime</artifactId>
 			<version>${aspectj.version}</version>
 		</dependency>
-		<!--  
-		<dependency>
+        <dependency>
 			<groupId>org.aspectj</groupId>
 			<artifactId>com.springsource.org.aspectj.weaver</artifactId>
 			<version>${aspectj.version}</version>
-		</dependency> -->
-		<dependency>
+        </dependency>
+        <dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>com.springsource.javax.servlet</artifactId>
 			<version>2.5.0</version>
@@ -130,41 +129,49 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>com.springsource.org.hibernate.ejb</artifactId>
-			<version>3.3.2.GA</version>
-			<exclusions>
+			<version>3.4.0.GA</version>
+            <!--
+            <exclusions>
 				<exclusion>
 					<groupId>edu.oswego.cs.concurrent</groupId>
 					<artifactId>com.springsource.edu.oswego.cs.dl.util.concurrent</artifactId>
 				</exclusion>
 			</exclusions>
+			-->
 		</dependency>
-		<dependency>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>com.springsource.org.hibernate</artifactId>
+            <version>3.3.2.GA</version>
+        </dependency>
+        <dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>com.springsource.slf4j.log4j</artifactId>
-			<version>1.5.6</version>
+			<version>1.5.10</version>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>com.springsource.slf4j.api</artifactId>
-			<version>1.5.6</version>
+			<version>1.5.10</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>com.springsource.org.hibernate.validator</artifactId>
-			<version>4.0.0.Alpha3</version>
-			<exclusions>
+			<version>4.0.2.GA</version>
+            <!--
+            <exclusions>
 				<exclusion>
 					<groupId>org.slf4j</groupId>
 					<artifactId>slf4j-api</artifactId>
 				</exclusion>
 			</exclusions>
+			-->
 		</dependency>
         <dependency>
             <groupId>javax.persistence</groupId>
-			<artifactId>persistence-api</artifactId>
-		    <version>1.0</version>
-		</dependency>
-
+            <artifactId>com.springsource.javax.persistence</artifactId>  
+            <version>1.99.0</version>
+        </dependency>
 
 <!--  
 		<dependency>
@@ -194,7 +201,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>com.springsource.org.hibernate.annotations</artifactId>
-			<version>3.3.1.ga</version>
+			<version>3.4.0.GA</version>
 		</dependency>
 		<!--
 			<dependency> <groupId>org.eclipse.persistence</groupId>
@@ -209,7 +216,7 @@
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>com.springsource.javax.validation</artifactId>
-			<version>1.0.0.CR1</version>
+			<version>1.0.0.GA</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
