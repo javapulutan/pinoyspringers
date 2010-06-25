@@ -7,9 +7,12 @@ import junit.framework.Assert;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.springframework.test.context.ContextConfiguration;
 import org.springframework.transaction.annotation.Transactional;
 
+import ph.com.pinoyspringers.salesasst.BaseTest;
 import ph.com.pinoyspringers.salesasst.Profile;
+import ph.com.pinoyspringers.salesasst.security.Authorities;
 
 /**
  * 
@@ -18,15 +21,16 @@ import ph.com.pinoyspringers.salesasst.Profile;
  * @version 1.0
  * 
  */
+@ContextConfiguration(value = "classpath:domain-test.xml")
 public class SalesProfilePersistenceTest extends BaseTest {
 
 	@Before
 	public void initMockData() {
-		init();
+		super.init();
 
 	}
 
-	@Test
+   	@Test
 	@Transactional
 	public void testRetrieveAll() {
 
@@ -39,7 +43,7 @@ public class SalesProfilePersistenceTest extends BaseTest {
 	@Transactional
 	public void testRetrieveById() {
 
-		Long id = retrieveRandomObj().getId();
+		Long id = super.retrieveRandomObj().getId();
 
 		Profile profile = SalesProfile.retrieveById(id);
 
@@ -51,21 +55,28 @@ public class SalesProfilePersistenceTest extends BaseTest {
 	@Transactional
 	public void testPersist() {
 
-		Profile profile = createTransientInstance(Integer.MAX_VALUE);
-		profile.persist();
+		Profile profile = super.createTransientInstance(Integer.MAX_VALUE);
+		System.out.println("--here--");
+        profile.persist();
 		Assert.assertNotNull(profile.getId());
+
+        Authorities admin = new Authorities();
+        admin.setAuthority("ROLE_ADMIN");
+        admin.setUserName("kabilaw.101@gmail.com");
+        admin.persist();
+
 	}
 
 	@Test
 	@Transactional
 	public void testMerge() {
 
-		Profile profile = retrieveRandomObj();
+		Profile profile = super.retrieveRandomObj();
 		Assert.assertNotNull(profile);
-		profile.setEmail("test email");
+		profile.setEmail("kabilaw.101@gmail.com");
 		profile.merge();
 		profile = SalesProfile.retrieveById(profile.getId());
-		Assert.assertEquals("test email", profile.getEmail());
+		Assert.assertEquals("kabilaw.101@gmail.com", profile.getEmail());
 
 	}
 
@@ -73,45 +84,11 @@ public class SalesProfilePersistenceTest extends BaseTest {
 	@Transactional
 	public void testDelete() {
 
-		Profile profile = retrieveRandomObj();
+		Profile profile = super.retrieveRandomObj();
 		Assert.assertNotNull(profile);
 		profile.delete();
 		profile = SalesProfile.retrieveById(profile.getId());
 		Assert.assertNull(profile);
 
 	}
-
-	@Transactional
-	private void init() {
-
-		List<Profile> profiles = SalesProfile.retrieveAll();
-
-		if (profiles.size() <= 0) {
-
-			for (int i = 0; i < 20; i++) {
-				Profile profile = createTransientInstance(i);
-				profile.persist();
-			}
-		}
-
-	}
-
-	private Profile createTransientInstance(int index) {
-
-		Profile profile = new SalesProfile("Junar" + index, "Cabalo" + index,
-				"Serilo" + index);
-
-		return profile;
-
-	}
-
-	private Profile retrieveRandomObj() {
-
-		Random rnd = new java.security.SecureRandom();
-
-		List<Profile> profiles = SalesProfile.retrieveAll();
-
-		return profiles.get(rnd.nextInt(profiles.size()));
-	}
-
 }

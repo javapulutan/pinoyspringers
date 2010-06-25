@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<persistence xmlns="http://java.sun.com/xml/ns/persistence"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0"
-	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             version="1.0"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
 
-	<persistence-unit name="persistenceUnit"
-		transaction-type="RESOURCE_LOCAL">
-		<class>
-		ph.com.pinoyspringers.salesasst.BaseEntity</class>
-		<class>
-		ph.com.pinoyspringers.salesasst.domain.SalesProfile</class>
-		<class>
-		ph.com.pinoyspringers.salesasst.Address</class>
-		<class>
-		ph.com.pinoyspringers.salesasst.Profile</class>
-		<exclude-unlisted-classes>true</exclude-unlisted-classes>
-	</persistence-unit>
+    <persistence-unit name="persistenceUnit" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.ejb.HibernatePersistence</provider>
+        <properties>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
+            <property name="hibernate.hbm2ddl.auto" value="create"/>
+            <property name="hibernate.ejb.naming_strategy" value="org.hibernate.cfg.ImprovedNamingStrategy"/>
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.cache.provider_class" value="net.sf.ehcache.hibernate.SingletonEhCacheProvider"/>
+            <property name="hibernate.cache.use_query_cache" value="true"/>
+            <property name="hibernate.cache.use_second_level_cache" value="true"/>
+            <property name="hibernate.generate_statistics" value="true"/>
+        </properties>
+    </persistence-unit>
 </persistence>
+
+        <!--
+    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <persistence xmlns="http://java.sun.com/xml/ns/persistence"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0"
+        xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+
+        <persistence-unit name="persistenceUnit"
+            transaction-type="RESOURCE_LOCAL">
+            <class>
+            ph.com.pinoyspringers.salesasst.BaseEntity</class>
+            <class>
+            ph.com.pinoyspringers.salesasst.domain.SalesProfile</class>
+            <class>
+            ph.com.pinoyspringers.salesasst.Address</class>
+            <class>
+            ph.com.pinoyspringers.salesasst.Profile</class>
+            <exclude-unlisted-classes>true</exclude-unlisted-classes>
+        </persistence-unit>
+    </persistence>
+        -->

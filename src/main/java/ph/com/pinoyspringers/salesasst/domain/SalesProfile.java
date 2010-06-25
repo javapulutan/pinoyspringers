@@ -2,102 +2,137 @@ package ph.com.pinoyspringers.salesasst.domain;
 
 import java.util.List;
 
-import javax.persistence.Entity;
+import javax.inject.Inject;
+import javax.persistence.*;
 
-import javax.persistence.EntityManager;
-import javax.persistence.NamedQueries;
-import javax.persistence.NamedQuery;
-import javax.persistence.PersistenceContext;
-import javax.persistence.Table;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import org.hibernate.annotations.Cache;
+import org.hibernate.ejb.EntityManagerFactoryImpl;
 import org.springframework.beans.factory.annotation.Configurable;
+import org.springframework.orm.jpa.EntityManagerFactoryInfo;
+import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
+import org.springframework.security.access.annotation.Secured;
+import org.springframework.security.access.prepost.PostFilter;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.transaction.annotation.Transactional;
 
+import ph.com.pinoyspringers.salesasst.PersonName;
 import ph.com.pinoyspringers.salesasst.Profile;
 
+import static org.hibernate.annotations.CacheConcurrencyStrategy.READ_WRITE;
+
 /**
- * 
  * @author JSEE
  * @since 08/24/2009
  */
+
+@Cache(usage = READ_WRITE)
 @Entity
 @Table(name = "TBL_SALES_PROFILE")
 @Configurable
 public class SalesProfile extends Profile {
 
-	@PersistenceContext
-	transient EntityManager entityManager;
+    @PersistenceContext
+    transient EntityManager entityManager;
 
-	public SalesProfile() {
+    public SalesProfile() {
 
-	}
+    }
 
-	public SalesProfile(String firstName, String middleName, String lastName) {
-		super(firstName, middleName, lastName);
-	}
+    public SalesProfile(String firstName, String middleName, String lastName) {
+        super(firstName, middleName, lastName);
+    }
 
-	@Transactional
-	@Override
-	public void delete() {
+    @Transactional
+    @Override
+    public void delete() {
 
-		if (this.entityManager == null) {
-			throw new IllegalStateException("Entity Manager is null");
-		}
+        if (this.entityManager == null) {
+            throw new IllegalStateException("Entity Manager is null");
+        }
 
-		this.entityManager.remove(this);
+        this.entityManager.remove(this);
 
-	}
+    }
 
-	@Transactional
-	@Override
-	public void persist() {
+    @Transactional
+    @Override
+    public void persist() {
 
-		if (this.entityManager == null) {
-			throw new IllegalStateException("Entity Manager is null");
-		}
+        if (this.entityManager == null) {
+            throw new IllegalStateException("Entity Manager is null");
+        }
 
-		this.entityManager.persist(this);
+        this.entityManager.persist(this);
+        
+    }
 
-	}
+    @Transactional
+    @Override
+    public void merge() {
 
-	@Override
-	public void merge() {
+        if (this.entityManager == null) {
+            throw new IllegalStateException("Entity Manager is null");
+        }
 
-		if (this.entityManager == null) {
-			throw new IllegalStateException("Entity Manager is null");
-		}
+        this.entityManager.merge(this);
+        this.entityManager.flush();
 
-		this.entityManager.merge(this);
-		this.entityManager.flush();
+    }
 
-	}
+    @Transactional(readOnly = true)
+    public static List<Profile> retrieveAll() {
 
-	@SuppressWarnings("unchecked")
-	@Transactional(readOnly = true)
-	public static List<Profile> retrieveAll() {
+        EntityManager em = (new SalesProfile()).entityManager;
 
-		EntityManager em = (new SalesProfile()).entityManager;
+        if (em == null) {
+            throw new IllegalStateException("Entity Manager is null");
+        }
 
-		if (em == null) {
-			throw new IllegalStateException("Entity Manager is null");
-		}
+        return em.createQuery("SELECT sp FROM SalesProfile sp", Profile.class).getResultList();
 
-		return em.createQuery("SELECT sp FROM SalesProfile sp").getResultList();
+    }
 
-	}
+    @Transactional(readOnly = true)
+    public static Profile retrieveById(Long id) {
 
-	@Transactional(readOnly = true)
-	public static Profile retrieveById(Long id) {
+        EntityManager em = (new SalesProfile()).entityManager;
 
-		EntityManager em = (new SalesProfile()).entityManager;
+        if (em == null) {
+            throw new IllegalStateException("Entity Manager is null");
+        }
 
-		if (em == null) {
-			throw new IllegalStateException("Entity Manager is null");
-		}
+        return em.find(SalesProfile.class, id);
 
-		return em.find(SalesProfile.class, id);
+    }
 
-	}
+    @Override
+    public int hashCode() {
+
+        int result = 0;
+
+        PersonName personName = getPersonName();
+
+        result = personName == null ? 0 : getPersonName().hashCode();
+
+        return 27 * result;
+
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+
+        if (obj == null) return false;
+
+        if (!(obj instanceof SalesProfile)) return false;
+
+        SalesProfile that = (SalesProfile) obj;
+
+        if (this == that) return true;
+
+        return this.getPersonName().equals(that.getPersonName());
+
+
+    }
 
 }

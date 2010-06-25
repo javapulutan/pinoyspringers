@@ -3,32 +3,167 @@
   <component name="AnalysisUIOptions">
     <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/Authorities.java" line="70" />
+  </component>
   <component name="ChangeListManager" verified="true">
-    <list default="true" readonly="true" id="db29f5f0-eb37-46d4-bb7d-7809ecb6a0ca" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__com_googlecode_jtype_com_springsource_com_googlecode_jtype_0_1_0.xml" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_3_2_6_ga.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_com_springsource_org_hibernate_3_3_2_GA.xml" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_ejb_3_3_2_GA.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_com_springsource_org_hibernate_ejb_3_4_0_GA.xml" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__net_sourceforge_cglib_com_springsource_net_sf_cglib_2_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cglib_com_springsource_net_sf_cglib_2_2_0.xml" />
-      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__javax_persistence_persistence_api_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_5.xml" afterPath="" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_com_springsource_org_apache_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_com_springsource_javax_persistence_1_99_0.xml" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__javax_validation_com_springsource_javax_validation_1_0_0_CR1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_com_springsource_javax_validation_1_0_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__edu_oswego_cs_concurrent_com_springsource_edu_oswego_cs_dl_util_concurrent_1_3_4.xml" />
-      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_apache_commons_com_springsource_org_apache_commons_collections_3_2_0.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/validator/constraint/CheckValues.java" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/validator/constraint/CheckValues.java" />
+    <list default="true" readonly="true" id="db29f5f0-eb37-46d4-bb7d-7809ecb6a0ca" name="Default" comment="application logging">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xml_com_springsource_org_apache_xml_resolver_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/controller-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_web_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_com_springsource_org_apache_tiles_jsp_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.log.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jsr107cache_com_springsource_net_sf_jsr107cache_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/layouts/menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_ehcache_com_springsource_net_sf_ehcache_1_4_1.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_antlr_com_springsource_antlr_2_7_6.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_samples_aspectj_3_1_0_CI_SNAPSHOT.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Profile.java" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Profile.java" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_objectweb_asm_com_springsource_org_objectweb_asm_1_5_3.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/layouts/layout.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/statistics.png" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_ejb_3_3_2_GA.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_com_springsource_org_apache_commons_beanutils_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_com_springsource_javax_inject_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_context_support_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/BaseTest.java" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_aspectj_com_springsource_org_aspectj_runtime_1_6_3_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_com_springsource_org_aspectj_runtime_1_6_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__edu_oswego_cs_concurrent_com_springsource_edu_oswego_cs_dl_util_concurrent_1_3_4.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_com_springsource_org_apache_taglibs_standard_1_1_2.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_ejb_3_4_0_GA.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/profile/create.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_1_0_CI_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_el_com_springsource_org_jboss_el_2_0_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_com_springsource_org_apache_tiles_2_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_c3p0_3_3_1_GA.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_apache_commons_com_springsource_org_apache_commons_collections_3_2_1.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/show.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/create.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_expression_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_aspects_3_1_0_CI_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_annotations_3_5_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Address.java" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Address.java" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_jboss_javassist_com_springsource_javassist_3_3_0_ga.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/urlrewrite.xml" />
       <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__javax_transaction_jta_1_1.xml" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_slf4j_com_springsource_slf4j_log4j_1_5_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_com_springsource_slf4j_log4j_1_5_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/layouts/layouts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_com_springsource_javax_annotation_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/aop.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_expression_3_0_1_RELEASE.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfileValidationTest.java" afterPath="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfileValidationTest.java" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_core_3_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_core_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_jdbc_com_springsource_com_mysql_jdbc_5_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_aspects_3_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_aspects_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_com_springsource_org_apache_tiles_compat_2_1_3.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\resources\applicationContext-domain.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_0_3_RELEASE.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_annotations_3_4_0_GA.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_1_0_CI_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/financemanager-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xerces_com_springsource_org_apache_xerces_2_9_1.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__javax_persistence_com_springsource_javax_persistence_1_99_0.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_com_springsource_org_apache_tiles_servlet_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_java_persistence_jpa_api_2_0_cr_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/Authorities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/update.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_com_springsource_javax_transaction_1_1_0.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__xerces_xercesImpl_2_8_1.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_com_springsource_org_apache_tiles_portlet_2_1_3.xml" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_asm_3_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_asm_3_0_3_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.log" afterPath="$PROJECT_DIR$/application.log" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_orm_3_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_orm_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__edu_emory_mathcs_backport_com_springsource_edu_emory_mathcs_backport_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_3_5_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/domain/SalesProfile.java" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/domain/SalesProfile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_8.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_5.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_org_springframework_security_taglibs_3_0_2_RELEASE.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__xml_apis_xml_apis_1_3_03.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_webflow_org_springframework_webflow_2_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/profile/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_9_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlcommons_com_springsource_org_apache_xmlcommons_1_3_4.xml" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_aspectj_com_springsource_org_aspectj_weaver_1_6_3_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_com_springsource_org_aspectj_weaver_1_6_5_RELEASE.xml" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_jdbc_3_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_jdbc_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_webflow_org_springframework_faces_2_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_webflow_org_springframework_binding_2_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_com_springsource_javax_servlet_jsp_jstl_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_com_springsource_org_apache_tiles_core_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_com_springsource_org_apache_commons_collections_3_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/styles/pinoyspringers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_com_springsource_org_apache_commons_fileupload_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/aspects/LoggingAspect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_1_0_CI_SNAPSHOT.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__javax_validation_com_springsource_javax_validation_1_0_0_CR1.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/pinoyspringers/pinoyspringers-security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_transaction_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_3_5_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/uncaughtException.jsp" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_test_3_0_1_RELEASE.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_com_springsource_org_apache_commons_io_1_4_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/pinoyspringers/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_0_3_RELEASE.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_annotations_common_3_3_0_ga.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_dom4j_com_springsource_org_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_transaction_3_0_1_RELEASE.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_com_springsource_org_apache_commons_digester_1_8_1.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__net_sourceforge_cglib_com_springsource_net_sf_cglib_2_2_0.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/domain-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/pinoyspringers/basicInfrastructure.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_context_3_0_1_RELEASE.xml" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_beans_3_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_beans_3_0_3_RELEASE.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_3_3_2_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_jboss_util_com_springsource_org_jboss_util_2_0_4_GA.xml" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_springframework_org_springframework_aop_3_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_web_servlet_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/ctrl/ProfileController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/profile/edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfilePersistenceTest.java" afterPath="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfilePersistenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/PersonName.java" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/PersonName.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pinoyspringers.iml" afterPath="$PROJECT_DIR$/pinoyspringers.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_slf4j_com_springsource_slf4j_api_1_5_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_com_springsource_slf4j_api_1_5_10.xml" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_annotations_3_3_1_ga.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_com_springsource_org_hibernate_annotations_3_4_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_com_springsource_org_aspectj_weaver_1_6_3_RELEASE.xml" />
-      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_objectweb_asm_com_springsource_org_objectweb_asm_attrs_1_5_3.xml" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\.idea\libraries\Maven__org_hibernate_com_springsource_org_hibernate_validator_4_0_0_Alpha3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_com_springsource_org_hibernate_validator_4_0_2_GA.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_test_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/DefaultAuthority.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pinoyspringers-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/profile/views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tuckey_com_springsource_org_tuckey_web_filters_urlrewrite_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/pinoyspringers/validator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_context_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/ctrl/ProfileControllerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_org_springframework_aop_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_webflow_org_springframework_js_2_0_9_RELEASE.xml" />
+      <change type="DELETED" beforePath="C:\Users\JSEE\IdeaProjects\pinoyspringers\src\test\java\ph\com\pinoyspringers\salesasst\domain\BaseTest.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/basicInfrastructure-test.xml" />
     </list>
     <ignored path="pinoyspringers.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,31 +228,92 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProfileControllerTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/ctrl/ProfileControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="16" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="221" column="74" selection-start="7084" selection-end="7084" vertical-scroll-proportion="-1.03">
+            <state line="487" column="66" selection-start="20255" selection-end="20255" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SalesProfilePersistenceTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfilePersistenceTest.java">
+      <file leaf-file-name="ProfileController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/ctrl/ProfileController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="34" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+            <state line="42" column="18" selection-start="1451" selection-end="1451" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SalesProfileTestSuite.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfileTestSuite.java">
+      <file leaf-file-name="DefaultAuthority.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/DefaultAuthority.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="48" column="14" selection-start="1908" selection-end="1908" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggingAspect.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/aspects/LoggingAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="79" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CacheStatisticsAspect.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/aspects/CacheStatisticsAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authorities.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/Authorities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="11" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.72809666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pinoyspringers/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pinoyspringers-security.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/pinoyspringers/pinoyspringers-security.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="53" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aop.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/aop.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="45" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,20 +325,28 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="LINE_SEPARATORS_CONVERSION" value="NONE" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/BaseEntity.java" />
-        <option value="$PROJECT_DIR$/src/test/java/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/pinoyspringers/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/pinoyspringers/aspects.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/domain-test.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/aspects/CacheStatisticsAspect.java" />
         <option value="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfilePersistenceTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Address.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/validator/constraint/CheckValues.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Profile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/PersonName.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfileValidationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/aspects/LoggingAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/pinoyspringers/basicInfrastructure.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pinoyspringers-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/aop.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/pinoyspringers/pinoyspringers-security.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/domain/SalesProfile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/ctrl/ProfileController.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/controller-test.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/basicInfrastructure-test.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/DefaultAuthority.java" />
       </list>
     </option>
   </component>
@@ -152,6 +356,10 @@
         <option name="mavenHome" value="C:\Users\JSEE\Documents\apache-maven-2.2.0-bin\apache-maven-2.2.0" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="showIgnored" value="false" />
+    <option name="showBasicPhasesOnly" value="false" />
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
@@ -188,9 +396,597 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Problems">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src/main/java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers/salesasst/security">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers/test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers/test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers/salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers/test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers/salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="domain">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="All">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers/salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers/salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="domain">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers/salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ctrl">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="webapp/WEB-INF">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="resources">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="META-INF">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="validator/constraint">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="service">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="security">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="java">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ph/com/pinoyspringers">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="salesasst">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="domain">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,7 +1009,278 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ctrl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aspects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pinoyspringers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
+      </pane>
+      <pane id="Favorites">
+        <subPane subId="pinoyspringers" />
       </pane>
     </panes>
   </component>
@@ -222,7 +1289,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="preferences.pathVariables" />
+    <property name="options.lastSelected" value="com.intellij.compiler.options.AnnotationProcessorsConfigurable" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="project.structure.side.proportion" value="0.37919074" />
@@ -231,18 +1298,51 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.SalesProfilePersistenceTest">
-    <configuration default="false" name="SalesProfilePersistenceTest" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ph.com.pinoyspringers.salesasst.service.imp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProfileControllerTest">
+    <configuration default="false" name="SalesProfileValidationTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="snapshooter" />
       <module name="pinoyspringers" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="ph.com.pinoyspringers.salesasst.domain" />
-      <option name="MAIN_CLASS_NAME" value="ph.com.pinoyspringers.salesasst.domain.SalesProfileTestSuite" />
+      <option name="MAIN_CLASS_NAME" value="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49339" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProfileControllerTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="snapshooter" />
+      <module name="pinoyspringers" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="ph.com.pinoyspringers.salesasst.ctrl" />
+      <option name="MAIN_CLASS_NAME" value="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="" />
@@ -256,7 +1356,9 @@
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method />
+      <method>
+        <option name="Maven.BeforeRunTask" enabled="false" file="$PROJECT_DIR$/pom.xml" goal="compile" />
+      </method>
     </configuration>
     <configuration default="false" name="pinoyspringers [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
@@ -291,6 +1393,98 @@
             <option name="goals">
               <list>
                 <option value="test" />
+              </list>
+            </option>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pinoyspringers [org.codehaus.mojo:tomcat-maven-plugin:1.0-beta-1:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="checksumPolicy" value="FAIL" />
+            <option name="failureBehavior" value="FAST" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="" />
+            <option name="mavenSettingsFile" value="" />
+            <option name="nonRecursive" value="false" />
+            <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="snapshotUpdatePolicy" value="ALWAYS_UPDATE" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="jreName" value="1.6" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="goals">
+              <list>
+                <option value="org.codehaus.mojo:tomcat-maven-plugin:1.0-beta-1:run" />
+              </list>
+            </option>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pinoyspringers [org.mortbay.jetty:maven-jetty-plugin:6.1.10:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="checksumPolicy" value="FAIL" />
+            <option name="failureBehavior" value="FAST" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="" />
+            <option name="mavenSettingsFile" value="" />
+            <option name="nonRecursive" value="false" />
+            <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="snapshotUpdatePolicy" value="ALWAYS_UPDATE" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="jreName" value="1.6" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="goals">
+              <list>
+                <option value="org.mortbay.jetty:maven-jetty-plugin:6.1.10:run" />
               </list>
             </option>
             <option name="profiles">
@@ -459,9 +1653,12 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SalesProfilePersistenceTest" />
-      <item index="1" class="java.lang.String" itemvalue="Maven.pinoyspringers [test]" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SalesProfileValidationTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ProfileControllerTest" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.pinoyspringers [test]" />
+      <item index="3" class="java.lang.String" itemvalue="Maven.pinoyspringers [org.codehaus.mojo:tomcat-maven-plugin:1.0-beta-1:run]" />
+      <item index="4" class="java.lang.String" itemvalue="Maven.pinoyspringers [org.mortbay.jetty:maven-jetty-plugin:6.1.10:run]" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -506,27 +1703,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <frame x="-8" y="-8" width="1292" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.48407644" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39968154" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3566879" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23170732" sideWeight="0.24522293" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3300813" sideWeight="0.4968153" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.48407644" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19512194" sideWeight="0.4968153" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54617834" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49203822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20228384" sideWeight="0.5398089" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16476347" sideWeight="0.6321656" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39885807" sideWeight="0.56050956" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959217" sideWeight="0.6321656" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54617834" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4490446" sideWeight="0.0" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.65923566" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -540,7 +1738,7 @@
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -553,6 +1751,8 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="ehcache statistics logging" />
+    <MESSAGE value="application logging" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -562,90 +1762,90 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/com.springsource.javax.validation/1.0.0.CR1/com.springsource.javax.validation-1.0.0.CR1-sources.jar!/javax/validation/ValidatorFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-samples-aspectj/3.1.0.CI-SNAPSHOT/spring-security-samples-aspectj-3.1.0.CI-SNAPSHOT.jar!/aspectj-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="35" selection-start="1293" selection-end="1293" vertical-scroll-proportion="1.0625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/DBEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-domain.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="61" selection-start="586" selection-end="586" vertical-scroll-proportion="0.56666666" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.6.0/src.zip!/javax/print/attribute/standard/Severity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="33" selection-start="3424" selection-end="3424" vertical-scroll-proportion="2.702765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/validator/constraint/CheckValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="50" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/validator/constraint/CheckValuesValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="51" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="19" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="48" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" />
+        <state line="43" column="36" selection-start="2010" selection-end="2010" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/domain/SalesProfile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="56" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0" />
+        <state line="49" column="4" selection-start="1338" selection-end="1338" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/PersonName.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/controller-test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0" />
+        <state line="9" column="4" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfileValidationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/domain-test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="101" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" />
+        <state line="7" column="45" selection-start="378" selection-end="378" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/com.springsource.org.hibernate.ejb/3.4.0.GA/com.springsource.org.hibernate.ejb-3.4.0.GA.jar!/org/hibernate/ejb/HibernatePersistence.class">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/basicInfrastructure-test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="88" selection-start="860" selection-end="860" vertical-scroll-proportion="0.27482268" />
+        <state line="21" column="4" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/Profile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pinoyspringers/basicInfrastructure.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="68" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfilePersistenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="34" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/domain/SalesProfileTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="221" column="74" selection-start="7084" selection-end="7084" vertical-scroll-proportion="-1.03">
+        <state line="487" column="66" selection-start="20255" selection-end="20255" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/ctrl/ProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="18" selection-start="1451" selection-end="1451" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/DefaultAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="14" selection-start="1908" selection-end="1908" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pinoyspringers/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pinoyspringers/pinoyspringers-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="53" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ph/com/pinoyspringers/salesasst/ctrl/ProfileControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="16" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/aspects/LoggingAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="79" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/aspects/CacheStatisticsAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ph/com/pinoyspringers/salesasst/security/Authorities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="11" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.72809666">
           <folding />
         </state>
       </provider>
@@ -703,6 +1903,16 @@
         </UIState>
       </state>
     </states>
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="true" />
+    <aspect className="org.springframework.beans.factory.aspectj.AnnotationBeanConfigurerAspect" enabled="true">jar://file:/C:/Users/JSEE/.m2/repository/org/springframework/org.springframework.aspects/3.0.3.RELEASE/org.springframework.aspects-3.0.3.RELEASE.jar!/org/springframework/beans/factory/aspectj/AnnotationBeanConfigurerAspect.class</aspect>
+    <aspect className="org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl" enabled="true">jar://file:/C:/Users/JSEE/.m2/repository/org/springframework/org.springframework.aspects/3.0.3.RELEASE/org.springframework.aspects-3.0.3.RELEASE.jar!/org/springframework/mock/staticmock/AnnotationDrivenStaticEntityMockingControl.class</aspect>
+    <aspect className="org.springframework.orm.jpa.aspectj.JpaExceptionTranslatorAspect" enabled="true">jar://file:/C:/Users/JSEE/.m2/repository/org/springframework/org.springframework.aspects/3.0.3.RELEASE/org.springframework.aspects-3.0.3.RELEASE.jar!/org/springframework/orm/jpa/aspectj/JpaExceptionTranslatorAspect.class</aspect>
+    <aspect className="org.springframework.security.access.intercept.aspectj.aspect.AnnotationSecurityAspect" enabled="true">jar://file:/C:/Users/JSEE/.m2/repository/org/springframework/security/spring-security-aspects/3.1.0.CI-SNAPSHOT/spring-security-aspects-3.1.0.CI-SNAPSHOT.jar!/org/springframework/security/access/intercept/aspectj/aspect/AnnotationSecurityAspect.class</aspect>
+    <aspect className="org.springframework.transaction.aspectj.AnnotationTransactionAspect" enabled="true">jar://file:/C:/Users/JSEE/.m2/repository/org/springframework/org.springframework.aspects/3.0.3.RELEASE/org.springframework.aspects-3.0.3.RELEASE.jar!/org/springframework/transaction/aspectj/AnnotationTransactionAspect.class</aspect>
+    <aspect className="ph.com.pinoyspringers.salesasst.aspects.CacheStatisticsAspect" enabled="true">file:/$PROJECT_DIR$/target/classes/ph/com/pinoyspringers/salesasst/aspects/CacheStatisticsAspect.class</aspect>
+    <aspect className="ph.com.pinoyspringers.salesasst.aspects.LoggingAspect" enabled="true">file:/$PROJECT_DIR$/target/classes/ph/com/pinoyspringers/salesasst/aspects/LoggingAspect.class</aspect>
   </component>
 </project>
 
