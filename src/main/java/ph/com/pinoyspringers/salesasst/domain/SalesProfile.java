@@ -1,6 +1,8 @@
 package ph.com.pinoyspringers.salesasst.domain;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import javax.inject.Inject;
 import javax.persistence.*;
@@ -35,6 +37,10 @@ public class SalesProfile extends Profile {
     @PersistenceContext
     transient EntityManager entityManager;
 
+    @OneToMany(cascade = {CascadeType.PERSIST,CascadeType.MERGE,CascadeType.REMOVE})
+    @JoinTable(name = "TBL_SALES_LEADS")
+    private Set<Lead> leads = new HashSet<Lead>();
+
     public SalesProfile() {
 
     }
@@ -42,6 +48,16 @@ public class SalesProfile extends Profile {
     public SalesProfile(String firstName, String middleName, String lastName) {
         super(firstName, middleName, lastName);
     }
+
+
+    public Set<Lead> getLeads() {
+        return leads;
+    }
+
+    public void setLeads(Set<Lead> leads) {
+        this.leads = leads;
+    }
+
 
     @Transactional
     @Override
@@ -64,7 +80,7 @@ public class SalesProfile extends Profile {
         }
 
         this.entityManager.persist(this);
-        
+
     }
 
     @Transactional

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="19.761" errors="0" skipped="0" tests="5" name="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest">
+<testsuite failures="0" time="3.738" errors="0" skipped="0" tests="5" name="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0\jre\bin"/>
@@ -19,7 +19,7 @@
     <property name="basedir" value="C:\Users\JSEE\IdeaProjects\pinoyspringers"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0\jre\lib\endorsed"/>
     <property name="os.arch" value="x86"/>
-    <property name="surefire.real.class.path" value="C:\Users\JSEE\AppData\Local\Temp\surefirebooter60353.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\JSEE\AppData\Local\Temp\surefirebooter62156.jar"/>
     <property name="java.io.tmpdir" value="C:\Users\JSEE\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
@@ -59,9 +59,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.755" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testDelete"/>
-  <testcase time="0.516" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testRetrieveAll"/>
-  <testcase time="0.533" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testRetrieveById"/>
-  <testcase time="17.407" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testPersist"/>
-  <testcase time="0.542" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testMerge"/>
+  <testcase time="0.52" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testDelete"/>
+  <testcase time="0.472" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testRetrieveAll"/>
+  <testcase time="1.398" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testRetrieveById"/>
+  <testcase time="0.729" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testPersist"/>
+  <testcase time="0.61" classname="ph.com.pinoyspringers.salesasst.domain.SalesProfilePersistenceTest" name="testMerge"/>
 </testsuite>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="33.46" errors="0" skipped="0" tests="7" name="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest">
+<testsuite failures="0" time="31.129" errors="0" skipped="0" tests="7" name="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0\jre\bin"/>
@@ -19,7 +19,7 @@
     <property name="basedir" value="C:\Users\JSEE\IdeaProjects\pinoyspringers"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0\jre\lib\endorsed"/>
     <property name="os.arch" value="x86"/>
-    <property name="surefire.real.class.path" value="C:\Users\JSEE\AppData\Local\Temp\surefirebooter60353.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\JSEE\AppData\Local\Temp\surefirebooter62156.jar"/>
     <property name="java.io.tmpdir" value="C:\Users\JSEE\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
@@ -59,11 +59,11 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="27" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testCreate"/>
-  <testcase time="0.762" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testEdit"/>
-  <testcase time="1.193" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testDelete"/>
-  <testcase time="0.636" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testUpdate"/>
-  <testcase time="1.087" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testCreateForm"/>
-  <testcase time="1.705" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testShow"/>
-  <testcase time="0.859" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testList"/>
+  <testcase time="22.487" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testCreate"/>
+  <testcase time="0.909" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testEdit"/>
+  <testcase time="0.562" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testDelete"/>
+  <testcase time="2.164" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testUpdate"/>
+  <testcase time="3.6" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testCreateForm"/>
+  <testcase time="0.549" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testShow"/>
+  <testcase time="0.501" classname="ph.com.pinoyspringers.salesasst.ctrl.ProfileControllerTest" name="testList"/>
 </testsuite>

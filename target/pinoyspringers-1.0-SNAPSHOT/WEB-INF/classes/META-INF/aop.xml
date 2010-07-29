@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<aspectj>
+
+	<weaver>
+		<include within="ph.com.pinoyspringers.salesasst.domain..*"/>
+        <include within="ph.com.pinoyspringers.salesasst.ctrl..*"/>
+	</weaver>
+
+	<aspects>
+        <aspect
+            name="org.springframework.security.access.intercept.aspectj.aspect.AnnotationSecurityAspect" />
+        <concrete-aspect name="ph.com.pinoyspringers.salesasst.aspects.CacheStatisticsAspect" />
+        <concrete-aspect name="ph.com.pinoyspringers.salesasst.aspects.LoggingAspect" />
+    </aspects>
+</aspectj>
