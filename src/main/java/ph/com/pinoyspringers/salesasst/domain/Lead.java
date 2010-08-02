@@ -15,6 +15,10 @@ import javax.persistence.*;
 @Table(name="TBL_LEADS")
 public class Lead extends BaseEntity{
 
+    @Column(name = "LEAD_NAME",unique = true)
+    private String name;
+
+
     @ManyToOne
     private Contact contact;
 
@@ -24,5 +28,13 @@ public class Lead extends BaseEntity{
 
     public void setContact(Contact contact) {
         this.contact = contact;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
