@@ -1,0 +1,170 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.6.5 built on Thursday Jun 18, 2009 at 03:42:32 GMT
+---- Dump Properties ---
+Dump file: ajcore.20100819.164011.341.txt
+Dump reason: org.aspectj.weaver.BCException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+---- System Properties ---
+java.runtime.name=Java(TM) SE Runtime Environment
+sun.boot.library.path=C:\Program Files\Java\jdk1.6.0\jre\bin
+java.vm.version=1.6.0-b105
+java.vm.vendor=Sun Microsystems Inc.
+java.vendor.url=http://java.sun.com/
+path.separator=;
+idea.launcher.port=7533
+java.vm.name=Java HotSpot(TM) Client VM
+file.encoding.pkg=sun.io
+sun.java.launcher=SUN_STANDARD
+user.country=US
+sun.os.patch.level=
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=C:\Users\JSEE\IdeaProjects\pinoyspringers
+java.runtime.version=1.6.0-b105
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=C:\Program Files\Java\jdk1.6.0\jre\lib\endorsed
+os.arch=x86
+java.io.tmpdir=C:\Users\JSEE\AppData\Local\Temp\
+line.separator=
+
+java.vm.specification.vendor=Sun Microsystems Inc.
+user.variant=
+os.name=Windows Vista
+classworlds.conf=C:\Users\JSEE\Documents\apache-maven-2.2.0-bin\apache-maven-2.2.0\bin\m2.conf
+sun.jnu.encoding=Cp1252
+java.library.path=C:\Program Files\Java\jdk1.6.0\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\PROGRA~1\COMMON~1\ULEADS~1\MPEG;C:\Users\JSEE\Documents\android-sdk-windows-1.0_r1\android-sdk-windows-1.0_r1\tools;C:\Users\JSEE\Documents\apache-maven-2.2.0-bin\apache-maven-2.2.0\bin;C:\Users\JSEE\Documents\grails-bin-1.1.1\grails-1.1.1\bin;C:\Users\JSEE\Documents\appengine-java-sdk-1.2.1\appengine-java-sdk-1.2.1\bin;C:\Users\JSEE\Documents\spring-roo-1.0.0.M2\spring-roo-1.0.0.M2\bin;C:\Program Files\MySQL\MySQL Server 5.4\bin;C:\Program Files\QuickTime\QTSystem\;c:\program files\jetbrains\intellij idea community edition 9.0.1\jre\jre\bin
+java.specification.name=Java Platform API Specification
+java.class.version=50.0
+sun.management.compiler=HotSpot Client Compiler
+os.version=6.0
+user.home=C:\Users\JSEE
+user.timezone=Asia/Shanghai
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+idea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 9.0.1\bin
+file.encoding=windows-1252
+java.specification.version=1.6
+java.class.path=C:\Users\JSEE\Documents\apache-maven-2.2.0-bin\apache-maven-2.2.0\boot\classworlds-1.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 9.0.1\lib\idea_rt.jar
+user.name=JSEE
+java.vm.specification.version=1.0
+java.home=C:\Program Files\Java\jdk1.6.0\jre
+sun.arch.data.model=32
+user.language=en
+java.specification.vendor=Sun Microsystems Inc.
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode, sharing
+java.version=1.6.0
+java.ext.dirs=C:\Program Files\Java\jdk1.6.0\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+sun.boot.class.path=C:\Program Files\Java\jdk1.6.0\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0\jre\classes
+java.vendor=Sun Microsystems Inc.
+maven.home=C:\Users\JSEE\Documents\apache-maven-2.2.0-bin\apache-maven-2.2.0
+file.separator=\
+java.vendor.url.bug=http://java.sun.com/cgi-bin/bugreport.cgi
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.desktop=windows
+sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86
+---- Command Line ---
+-source
+1.6
+-target
+1.6
+-classpath
+C:\Users\JSEE\.m2\repository\antlr\antlr\2.7.6\antlr-2.7.6.jar;C:\Users\JSEE\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\JSEE\.m2\repository\asm\asm\3.1\asm-3.1.jar;C:\Users\JSEE\.m2\repository\cglib\cglib\2.2\cglib-2.2.jar;C:\Users\JSEE\.m2\repository\com\mysql\jdbc\com.springsource.com.mysql.jdbc\5.1.6\com.springsource.com.mysql.jdbc-5.1.6.jar;C:\Users\JSEE\.m2\repository\commons-collections\commons-collections\3.1\commons-collections-3.1.jar;C:\Users\JSEE\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\JSEE\.m2\repository\edu\emory\mathcs\backport\com.springsource.edu.emory.mathcs.backport\3.1.0\com.springsource.edu.emory.mathcs.backport-3.1.0.jar;C:\Users\JSEE\.m2\repository\javassist\javassist\3.9.0.GA\javassist-3.9.0.GA.jar;C:\Users\JSEE\.m2\repository\javax\annotation\com.springsource.javax.annotation\1.0.0\com.springsource.javax.annotation-1.0.0.jar;C:\Users\JSEE\.m2\repository\javax\inject\com.springsource.javax.inject\1.0.0\com.springsource.javax.inject-1.0.0.jar;C:\Users\JSEE\.m2\repository\javax\servlet\com.springsource.javax.servlet\2.5.0\com.springsource.javax.servlet-2.5.0.jar;C:\Users\JSEE\.m2\repository\javax\servlet\com.springsource.javax.servlet.jsp.jstl\1.2.0\com.springsource.javax.servlet.jsp.jstl-1.2.0.jar;C:\Users\JSEE\.m2\repository\javax\transaction\com.springsource.javax.transaction\1.1.0\com.springsource.javax.transaction-1.1.0.jar;C:\Users\JSEE\.m2\repository\javax\validation\com.springsource.javax.validation\1.0.0.GA\com.springsource.javax.validation-1.0.0.GA.jar;C:\Users\JSEE\.m2\repository\net\sourceforge\ehcache\com.springsource.net.sf.ehcache\1.4.1\com.springsource.net.sf.ehcache-1.4.1.jar;C:\Users\JSEE\.m2\repository\net\sourceforge\jsr107cache\com.springsource.net.sf.jsr107cache\1.0.0\com.springsource.net.sf.jsr107cache-1.0.0.jar;C:\Users\JSEE\.m2\repository\org\aopalliance\com.springsource.org.aopalliance\1.0.0\com.springsource.org.aopalliance-1.0.0.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.beanutils\1.8.0\com.springsource.org.apache.commons.beanutils-1.8.0.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.collections\3.2.0\com.springsource.org.apache.commons.collections-3.2.0.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.dbcp\1.2.2.osgi\com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.digester\1.8.1\com.springsource.org.apache.commons.digester-1.8.1.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.fileupload\1.2.0\com.springsource.org.apache.commons.fileupload-1.2.0.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.io\1.4.0\com.springsource.org.apache.commons.io-1.4.0.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.logging\1.1.1\com.springsource.org.apache.commons.logging-1.1.1.jar;C:\Users\JSEE\.m2\repository\org\apache\commons\com.springsource.org.apache.commons.pool\1.3.0\com.springsource.org.apache.commons.pool-1.3.0.jar;C:\Users\JSEE\.m2\repository\org\apache\log4j\com.springsource.org.apache.log4j\1.2.15\com.springsource.org.apache.log4j-1.2.15.jar;C:\Users\JSEE\.m2\repository\org\apache\taglibs\com.springsource.org.apache.taglibs.standard\1.1.2\com.springsource.org.apache.taglibs.standard-1.1.2.jar;C:\Users\JSEE\.m2\repository\org\apache\tiles\com.springsource.org.apache.tiles\2.1.3\com.springsource.org.apache.tiles-2.1.3.jar;C:\Users\JSEE\.m2\repository\org\apache\tiles\com.springsource.org.apache.tiles.compat\2.1.3\com.springsource.org.apache.tiles.compat-2.1.3.jar;C:\Users\JSEE\.m2\repository\org\apache\tiles\com.springsource.org.apache.tiles.core\2.1.3\com.springsource.org.apache.tiles.core-2.1.3.jar;C:\Users\JSEE\.m2\repository\org\apache\tiles\com.springsource.org.apache.tiles.jsp\2.1.3\com.springsource.org.apache.tiles.jsp-2.1.3.jar;C:\Users\JSEE\.m2\repository\org\apache\tiles\com.springsource.org.apache.tiles.portlet\2.1.3\com.springsource.org.apache.tiles.portlet-2.1.3.jar;C:\Users\JSEE\.m2\repository\org\apache\tiles\com.springsource.org.apache.tiles.servlet\2.1.3\com.springsource.org.apache.tiles.servlet-2.1.3.jar;C:\Users\JSEE\.m2\repository\org\apache\xerces\com.springsource.org.apache.xerces\2.9.1\com.springsource.org.apache.xerces-2.9.1.jar;C:\Users\JSEE\.m2\repository\org\apache\xml\com.springsource.org.apache.xml.resolver\1.2.0\com.springsource.org.apache.xml.resolver-1.2.0.jar;C:\Users\JSEE\.m2\repository\org\apache\xmlcommons\com.springsource.org.apache.xmlcommons\1.3.4\com.springsource.org.apache.xmlcommons-1.3.4.jar;C:\Users\JSEE\.m2\repository\org\aspectj\aspectjrt\1.6.9\aspectjrt-1.6.9.jar;C:\Users\JSEE\.m2\repository\org\aspectj\aspectjweaver\1.6.9\aspectjweaver-1.6.9.jar;C:\Users\JSEE\.m2\repository\org\aspectj\com.springsource.org.aspectj.runtime\1.6.5.RELEASE\com.springsource.org.aspectj.runtime-1.6.5.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\aspectj\com.springsource.org.aspectj.weaver\1.6.5.RELEASE\com.springsource.org.aspectj.weaver-1.6.5.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\hibernate\com.springsource.org.hibernate.validator\4.0.2.GA\com.springsource.org.hibernate.validator-4.0.2.GA.jar;C:\Users\JSEE\.m2\repository\org\hibernate\hibernate-annotations\3.5.1-Final\hibernate-annotations-3.5.1-Final.jar;C:\Users\JSEE\.m2\repository\org\hibernate\hibernate-commons-annotations\3.2.0.Final\hibernate-commons-annotations-3.2.0.Final.jar;C:\Users\JSEE\.m2\repository\org\hibernate\hibernate-core\3.5.1-Final\hibernate-core-3.5.1-Final.jar;C:\Users\JSEE\.m2\repository\org\hibernate\hibernate-entitymanager\3.5.1-Final\hibernate-entitymanager-3.5.1-Final.jar;C:\Users\JSEE\.m2\repository\org\hibernate\java-persistence\jpa-api\2.0-cr-1\jpa-api-2.0-cr-1.jar;C:\Users\JSEE\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.0-api\1.0.0.Final\hibernate-jpa-2.0-api-1.0.0.Final.jar;C:\Users\JSEE\.m2\repository\org\jboss\el\com.springsource.org.jboss.el\2.0.0.GA\com.springsource.org.jboss.el-2.0.0.GA.jar;C:\Users\JSEE\.m2\repository\org\postgresql\com.springsource.org.postgresql.jdbc4\8.3.604\com.springsource.org.postgresql.jdbc4-8.3.604.jar;C:\Users\JSEE\.m2\repository\org\slf4j\com.springsource.slf4j.api\1.5.10\com.springsource.slf4j.api-1.5.10.jar;C:\Users\JSEE\.m2\repository\org\slf4j\com.springsource.slf4j.log4j\1.5.10\com.springsource.slf4j.log4j-1.5.10.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.aop\3.0.3.RELEASE\org.springframework.aop-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.asm\3.0.3.RELEASE\org.springframework.asm-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.aspects\3.0.3.RELEASE\org.springframework.aspects-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.beans\3.0.3.RELEASE\org.springframework.beans-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.context\3.0.3.RELEASE\org.springframework.context-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.context.support\3.0.3.RELEASE\org.springframework.context.support-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.core\3.0.3.RELEASE\org.springframework.core-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.expression\3.0.3.RELEASE\org.springframework.expression-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.jdbc\3.0.3.RELEASE\org.springframework.jdbc-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.orm\3.0.3.RELEASE\org.springframework.orm-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.transaction\3.0.3.RELEASE\org.springframework.transaction-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.web\3.0.3.RELEASE\org.springframework.web-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.web.servlet\3.0.3.RELEASE\org.springframework.web.servlet-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-aop\3.0.3.RELEASE\spring-aop-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-asm\3.0.3.RELEASE\spring-asm-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-beans\3.0.3.RELEASE\spring-beans-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-context\3.0.3.RELEASE\spring-context-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-core\3.0.3.RELEASE\spring-core-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-expression\3.0.3.RELEASE\spring-expression-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-jdbc\3.0.3.RELEASE\spring-jdbc-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-tx\3.0.3.RELEASE\spring-tx-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\spring-web\3.0.3.RELEASE\spring-web-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\security\org.springframework.security.taglibs\3.0.2.RELEASE\org.springframework.security.taglibs-3.0.2.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\security\spring-security-aspects\3.1.0.CI-SNAPSHOT\spring-security-aspects-3.1.0.CI-SNAPSHOT.jar;C:\Users\JSEE\.m2\repository\org\springframework\security\spring-security-config\3.1.0.CI-SNAPSHOT\spring-security-config-3.1.0.CI-SNAPSHOT.jar;C:\Users\JSEE\.m2\repository\org\springframework\security\spring-security-core\3.1.0.CI-SNAPSHOT\spring-security-core-3.1.0.CI-SNAPSHOT.jar;C:\Users\JSEE\.m2\repository\org\springframework\security\spring-security-web\3.1.0.CI-SNAPSHOT\spring-security-web-3.1.0.CI-SNAPSHOT.jar;C:\Users\JSEE\.m2\repository\org\springframework\webflow\org.springframework.binding\2.0.9.RELEASE\org.springframework.binding-2.0.9.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\webflow\org.springframework.faces\2.0.9.RELEASE\org.springframework.faces-2.0.9.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\webflow\org.springframework.js\2.0.9.RELEASE\org.springframework.js-2.0.9.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\webflow\org.springframework.webflow\2.0.9.RELEASE\org.springframework.webflow-2.0.9.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\tuckey\com.springsource.org.tuckey.web.filters.urlrewrite\3.1.0\com.springsource.org.tuckey.web.filters.urlrewrite-3.1.0.jar;C:\Users\JSEE\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\JSEE\IdeaProjects\pinoyspringers\target\classes
+-aspectpath
+C:\Users\JSEE\.m2\repository\org\springframework\org.springframework.aspects\3.0.3.RELEASE\org.springframework.aspects-3.0.3.RELEASE.jar;C:\Users\JSEE\.m2\repository\org\springframework\security\spring-security-aspects\3.1.0.CI-SNAPSHOT\spring-security-aspects-3.1.0.CI-SNAPSHOT.jar
+-d
+C:\Users\JSEE\IdeaProjects\pinoyspringers\target\classes
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\ctrl\ProfileController.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\PersonName.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\Address.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\aspects\LoggingAspect.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\validator\constraint\CheckValuesValidator.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\domain\SalesProfile.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\domain\Contact.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\security\DefaultAuthority.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\DBEntity.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\security\User.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\validator\constraint\CheckValues.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\aspects\CacheStatisticsAspect.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\BaseEntity.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\security\Authorities.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\domain\Lead.java
+C:\Users\JSEE\IdeaProjects\pinoyspringers\src\main\java\ph\com\pinoyspringers\salesasst\Profile.java
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+info directory classpath entry does not exist: C:\Program Files\Java\jdk1.6.0\jre\lib\sunrsasign.jar
+info zipfile classpath entry does not exist: C:\Program Files\Java\jdk1.6.0\jre\classes
+abort ABORT -- (BCException) Unable to continue, this version of AspectJ supports classes built with weaver version 6.0 but the class org.springframework.security.access.intercept.aspectj.aspect.AnnotationSecurityAspect is version 7.0
+when batch building BuildConfig[null] #Files=16 AopXmls=#0
+
+Unable to continue, this version of AspectJ supports classes built with weaver version 6.0 but the class org.springframework.security.access.intercept.aspectj.aspect.AnnotationSecurityAspect is version 7.0
+when batch building BuildConfig[null] #Files=16 AopXmls=#0
+
+org.aspectj.weaver.BCException: Unable to continue, this version of AspectJ supports classes built with weaver version 6.0 but the class org.springframework.security.access.intercept.aspectj.aspect.AnnotationSecurityAspect is version 7.0
+when batch building BuildConfig[null] #Files=16 AopXmls=#0
+
+	at org.aspectj.weaver.bcel.Utility.readAjAttributes(Utility.java:83)
+	at org.aspectj.weaver.bcel.BcelObjectType.ensureAspectJAttributesUnpacked(BcelObjectType.java:355)
+	at org.aspectj.weaver.bcel.BcelObjectType.<init>(BcelObjectType.java:146)
+	at org.aspectj.weaver.bcel.BcelWorld.buildBcelDelegate(BcelWorld.java:371)
+	at org.aspectj.weaver.bcel.BcelWorld.addSourceObjectType(BcelWorld.java:434)
+	at org.aspectj.weaver.bcel.BcelWeaver.addAspectsFromJarFile(BcelWeaver.java:263)
+	at org.aspectj.weaver.bcel.BcelWeaver.addLibraryJarFile(BcelWeaver.java:236)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.initBcelWorld(AjBuildManager.java:847)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.performBuild(AjBuildManager.java:244)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.batchBuild(AjBuildManager.java:181)
+	at org.aspectj.ajdt.ajc.AjdtCommand.doCommand(AjdtCommand.java:112)
+	at org.aspectj.ajdt.ajc.AjdtCommand.runCommand(AjdtCommand.java:60)
+	at org.aspectj.tools.ajc.Main.run(Main.java:355)
+	at org.aspectj.tools.ajc.Main.runMain(Main.java:234)
+	at org.codehaus.mojo.aspectj.AbstractAjcCompiler.execute(AbstractAjcCompiler.java:378)
+	at org.apache.maven.plugin.DefaultPluginManager.executeMojo(DefaultPluginManager.java:483)
+	at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoals(DefaultLifecycleExecutor.java:678)
+	at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoalWithLifecycle(DefaultLifecycleExecutor.java:540)
+	at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoal(DefaultLifecycleExecutor.java:519)
+	at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoalAndHandleFailures(DefaultLifecycleExecutor.java:371)
+	at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeTaskSegments(DefaultLifecycleExecutor.java:332)
+	at org.apache.maven.lifecycle.DefaultLifecycleExecutor.execute(DefaultLifecycleExecutor.java:181)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:356)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:137)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:362)
+	at org.apache.maven.cli.compat.CompatibleMain.main(CompatibleMain.java:41)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.codehaus.classworlds.Launcher.launchEnhanced(Launcher.java:315)
+	at org.codehaus.classworlds.Launcher.launch(Launcher.java:255)
+	at org.codehaus.classworlds.Launcher.mainWithExitCode(Launcher.java:430)
+	at org.codehaus.classworlds.Launcher.main(Launcher.java:375)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:110)
+
+---- org.aspectj.weaver.bcel.BcelWorld@9c8c3f ----
+Shadow mungers:
+(afterThrowing(extraFlags: 1): (persingleton(org.springframework.orm.jpa.aspectj.JpaExceptionTranslatorAspect) && (call(* javax.persistence.EntityManager.*(..)) || (call(* javax.persistence.EntityManagerFactory.*(..)) || (call(* javax.persistence.EntityTransaction.*(..)) || call(* javax.persistence.Query.*(..))))))->void org.springframework.orm.jpa.aspectj.JpaExceptionTranslatorAspect.ajc$afterThrowing$org_springframework_orm_jpa_aspectj_JpaExceptionTranslatorAspect$1$18a1ac9(java.lang.RuntimeException))
+(perCflowEntry: execution(public * @org.springframework.mock.staticmock.MockStaticEntityMethods *.*(..))->org.aspectj.runtime.internal.CFlowStack org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl.ajc$perCflowStack)
+(afterReturning: (percflow(org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl on mockStaticsTestMethod()) && execution(public * @org.springframework.mock.staticmock.MockStaticEntityMethods *.*(..)))->void org.springframework.mock.staticmock.AbstractMethodMockingControl.ajc$afterReturning$org_springframework_mock_staticmock_AbstractMethodMockingControl$1$94476acf())
+(cflowBelowEntry: execution(public * @org.springframework.mock.staticmock.MockStaticEntityMethods *.*(..))->org.aspectj.runtime.internal.CFlowCounter org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl.ajc$cflowCounter$1)
+(around(extraFlags: 7): (percflow(org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl on mockStaticsTestMethod()) && (execution(public static * @javax.persistence.Entity *.*(..)) && concretecflow(org.aspectj.runtime.internal.CFlowCounter org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl.ajc$cflowCounter$1)))->java.lang.Object org.springframework.mock.staticmock.AbstractMethodMockingControl.ajc$around$org_springframework_mock_staticmock_AbstractMethodMockingControl$2$9cfbb496(org.aspectj.runtime.internal.AroundClosure, org.aspectj.lang.JoinPoint$StaticPart, org.aspectj.lang.JoinPoint))
+(before: (persingleton(org.springframework.beans.factory.aspectj.AnnotationBeanConfigurerAspect) && ((initialization(org.springframework.beans.factory.aspectj.ConfigurableObject+.new(..)) && this(BindingTypePattern(java.lang.Object, 0))) && ((initialization(org.springframework.beans.factory.aspectj.ConfigurableObject.new(..)) && (@this(org.springframework.beans.factory.annotation.Configurable) && if(boolean org.springframework.beans.factory.aspectj.AnnotationBeanConfigurerAspect.ajc$if$bb0(org.springframework.beans.factory.annotation.Configurable)))) && @this(org.springframework.beans.factory.annotation.Configurable))))->void org.springframework.beans.factory.aspectj.AbstractDependencyInjectionAspect.ajc$before$org_springframework_beans_factory_aspectj_AbstractDependencyInjectionAspect$1$e854fa65(java.lang.Object))
+(afterReturning: (persingleton(org.springframework.beans.factory.aspectj.AnnotationBeanConfigurerAspect) && ((initialization(org.springframework.beans.factory.aspectj.ConfigurableObject+.new(..)) && this(BindingTypePattern(java.lang.Object, 0))) && ((if(boolean org.springframework.beans.factory.aspectj.AbstractDependencyInjectionAspect.ajc$if$6f1(org.aspectj.lang.JoinPoint)) && !(@this(org.springframework.beans.factory.annotation.Configurable) && if(boolean org.springframework.beans.factory.aspectj.AnnotationBeanConfigurerAspect.ajc$if$bb0(org.springframework.beans.factory.annotation.Configurable)))) && @this(org.springframework.beans.factory.annotation.Configurable))))->void org.springframework.beans.factory.aspectj.AbstractDependencyInjectionAspect.ajc$afterReturning$org_springframework_beans_factory_aspectj_AbstractDependencyInjectionAspect$2$1ea6722c(java.lang.Object))
+(afterReturning: (persingleton(org.springframework.beans.factory.aspectj.AnnotationBeanConfigurerAspect) && ((execution(java.lang.Object org.springframework.beans.factory.aspectj.AbstractInterfaceDrivenDependencyInjectionAspect$ConfigurableDeserializationSupport+.readResolve()) && this(BindingTypePattern(java.lang.Object, 0))) && @this(org.springframework.beans.factory.annotation.Configurable)))->void org.springframework.beans.factory.aspectj.AbstractDependencyInjectionAspect.ajc$afterReturning$org_springframework_beans_factory_aspectj_AbstractDependencyInjectionAspect$3$6aa27052(java.lang.Object))
+(before(extraFlags: 4): (persingleton(org.springframework.transaction.aspectj.AnnotationTransactionAspect) && (((execution(public * @org.springframework.transaction.annotation.Transactional *.*(..)) && @this(org.springframework.transaction.annotation.Transactional)) || (execution(* *(..)) && @annotation(org.springframework.transaction.annotation.Transactional))) && this(BindingTypePattern(java.lang.Object, 0))))->void org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$before$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96c(java.lang.Object, org.aspectj.lang.JoinPoint$StaticPart))
+(afterThrowing(extraFlags: 1): (persingleton(org.springframework.transaction.aspectj.AnnotationTransactionAspect) && (((execution(public * @org.springframework.transaction.annotation.Transactional *.*(..)) && @this(org.springframework.transaction.annotation.Transactional)) || (execution(* *(..)) && @annotation(org.springframework.transaction.annotation.Transactional))) && this(BindingTypePattern(java.lang.Object, 0))))->void org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$afterThrowing$org_springframework_transaction_aspectj_AbstractTransactionAspect$2$2a73e96c(java.lang.Object, java.lang.Throwable))
+(afterReturning: (persingleton(org.springframework.transaction.aspectj.AnnotationTransactionAspect) && (((execution(public * @org.springframework.transaction.annotation.Transactional *.*(..)) && @this(org.springframework.transaction.annotation.Transactional)) || (execution(* *(..)) && @annotation(org.springframework.transaction.annotation.Transactional))) && this(BindingTypePattern(java.lang.Object, 0))))->void org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$afterReturning$org_springframework_transaction_aspectj_AbstractTransactionAspect$3$2a73e96c(java.lang.Object))
+(after: (persingleton(org.springframework.transaction.aspectj.AnnotationTransactionAspect) && (((execution(public * @org.springframework.transaction.annotation.Transactional *.*(..)) && @this(org.springframework.transaction.annotation.Transactional)) || (execution(* *(..)) && @annotation(org.springframework.transaction.annotation.Transactional))) && this(BindingTypePattern(java.lang.Object, 0))))->void org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$after$org_springframework_transaction_aspectj_AbstractTransactionAspect$4$2a73e96c(java.lang.Object))
+Type mungers:
+(BcelTypeMunger ResolvedTypeMunger(Method, java.lang.Object org.springframework.beans.factory.aspectj.AbstractInterfaceDrivenDependencyInjectionAspect$ConfigurableDeserializationSupport.readResolve()))
+(BcelTypeMunger: CflowField org.springframework.mock.staticmock.AnnotationDrivenStaticEntityMockingControl ajc$cflowCounter$1)
+(BcelTypeMunger ExposeTypeMunger(java.lang.Object))
+(BcelTypeMunger ExposeTypeMunger(org.springframework.beans.factory.aspectj.ConfigurableObject))
+(BcelTypeMunger ExposeTypeMunger(org.springframework.beans.factory.aspectj.AbstractInterfaceDrivenDependencyInjectionAspect$ConfigurableDeserializationSupport))
+(BcelTypeMunger ExposeTypeMunger(java.lang.Object))
+Late Type mungers:
+Empty

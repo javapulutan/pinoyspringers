@@ -83,23 +83,22 @@
     <orderEntry type="library" exported="" name="Maven: org.springframework.webflow:org.springframework.faces:2.0.9.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.jboss.el:com.springsource.org.jboss.el:2.0.0.GA" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.springframework.security:spring-security-core:3.1.0.CI-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-expression:3.0.3.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-core:3.0.3.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-asm:3.0.3.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: commons-logging:commons-logging:1.1.1" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-context:3.0.3.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-aop:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-web:3.0.3.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Maven: aopalliance:aopalliance:1.0" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.springframework:spring-beans:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-core:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-asm:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-context:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-aop:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-expression:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.aspectj:aspectjrt:1.6.9" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-jdbc:3.0.3.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.springframework:spring-tx:3.0.3.RELEASE" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.aspectj:aspectjrt:1.6.8" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.aspectj:aspectjweaver:1.6.8" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.springframework.security:spring-security-web:3.1.0.CI-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework:spring-web:3.0.3.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.aspectj:aspectjweaver:1.6.9" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.springframework.security:spring-security-config:3.1.0.CI-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework.security:org.springframework.security.taglibs:3.0.2.RELEASE" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.springframework.security:org.springframework.security.taglibs:3.0.3.RELEASE" level="project" />
     <orderEntry type="library" exported="" name="Maven: org.springframework.security:spring-security-aspects:3.1.0.CI-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="Maven: org.springframework.security:spring-security-samples-aspectj:3.1.0.CI-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="Maven: net.sourceforge.ehcache:com.springsource.net.sf.ehcache:1.4.1" level="project" />
     <orderEntry type="library" exported="" name="Maven: net.sourceforge.jsr107cache:com.springsource.net.sf.jsr107cache:1.0.0" level="project" />
     <orderEntry type="library" exported="" name="Maven: edu.emory.mathcs.backport:com.springsource.edu.emory.mathcs.backport:3.1.0" level="project" />
